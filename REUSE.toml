@@ -1,0 +1,19 @@
+version = 1
+
+[[annotations]]
+# Code
+path = ["src/*.py"]
+SPDX-FileCopyrightText = "Red Hat"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+# Documentation
+path = ["docs/*.rst", "docs/*.md", "CONTRIBUTING.md", "README.md"]
+SPDX-FileCopyrightText = "Red Hat"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+# Trivial, noncreative, unoriginal, and nonexpressive material
+path = ["docs/Makefile", "docs/requirements.txt", "REUSE.toml", ".github/workflows/*.yml", ".editorconfig", ".pre-commit-config.yaml", ".readthedocs.yaml", ".gitignore", "docs/conf.py", "pyproject.toml", "CHANGELOG.md"]
+SPDX-FileCopyrightText = "Red Hat"
+SPDX-License-Identifier = "CC0-1.0"
