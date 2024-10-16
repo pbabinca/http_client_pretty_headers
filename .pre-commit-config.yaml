@@ -25,3 +25,7 @@ repos:
           # > invalid option value: (option: "parser"; value: 'myst')
           # > Parser "myst" not found. No module named 'myst_parser'.
           - myst-parser
+  - repo: https://github.com/fsfe/reuse-tool
+    rev: v4.0.3
+    hooks:
+      - id: reuse
