@@ -2,6 +2,7 @@
 
 ## UNRELEASED
 
+* Add pre-commit hook 'check-toml'
 * Add Renovate
 * Add REUSE metadata to the project, relicense portions to CC0-1.0
 * Wrap long lines of MIT license
