@@ -6,4 +6,6 @@ This project has been created as a side project. As a such it is possible I won'
 
 .. _contributing_before_licenses:
 
-Code of Pretty headers for http.client is distributed under the terms of the [MIT license](LICENSE.txt). Documentation is distributed under the terms of the [Creative Commons Attribution 4.0 International License](docs/LICENSE.txt).
+Code of Pretty headers for http.client is distributed under the terms of the [MIT license](LICENSES/MIT.txt). Documentation is distributed under the terms of the [Creative Commons Attribution 4.0 International License](LICENSES/CC-BY-4.0.txt). Trivial, noncreative, unoriginal, and nonexpressive material is distributed under the terms of the [CC0 1.0 Universal license](LICENSES/CC0-1.0.txt).
+
+This project follows the `REUSE specification <https://reuse.software/spec/>`_ to manage licenses.
