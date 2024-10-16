@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "http_client_pretty_headers"
 authors = [{ name = "Pavol Babinčák", email = "pbabinca@redhat.com" }]
-license = { text = "MIT" }
+license = { file = "LICENSES/MIT.txt" }
 classifiers = [
     "Intended Audience :: Developers",
     "License :: OSI Approved :: MIT License",
