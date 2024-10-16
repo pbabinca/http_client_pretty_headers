@@ -1,4 +1,4 @@
-#  SPDX-FileCopyrightText: 2024 Red Hat, Inc.
+#  SPDX-FileCopyrightText: Red Hat
 #
 #  SPDX-License-Identifier: MIT
 import ast
