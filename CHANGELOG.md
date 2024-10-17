@@ -2,6 +2,7 @@
 
 ## UNRELEASED
 
+* Add Renovate
 * Add REUSE metadata to the project, relicense portions to CC0-1.0
 * Wrap long lines of MIT license
 * Update Red Hat as a copyright holder to follow the internal policy
