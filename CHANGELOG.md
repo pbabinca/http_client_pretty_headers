@@ -2,6 +2,7 @@
 
 ## UNRELEASED
 
+* Fix format of a link in CONTRIBUTING.md
 * Add pre-commit hook 'check-toml'
 * Add Renovate
 * Add REUSE metadata to the project, relicense portions to CC0-1.0
