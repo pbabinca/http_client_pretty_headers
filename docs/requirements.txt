@@ -1,4 +1,4 @@
-myst-parser==4.0.0
+myst-parser==4.0.1
 # Pinning to avoid unexpected breakages.
 # Used by RTD to generate docs.
 Sphinx==8.1.3
